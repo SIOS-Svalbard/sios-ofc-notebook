@@ -1,0 +1,7 @@
+name: sios-ri-catalogue
+
+dependencies:
+ - ipython
+ - pandas
+ - folium
+ - shapely
