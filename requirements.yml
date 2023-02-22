@@ -1,7 +1,9 @@
 name: sios-ri-catalogue
 
 dependencies:
- - folium==0.14.0
- - pandas==1.5.2
- - requests==2.28.1
- - Shapely==1.8.4
+ - folium
+ - pandas
+ - requests
+ - Shapely
+ - ipykernel
+ - notebook
